@@ -1,4 +1,4 @@
-# FTR-Exporter
+# Alpha-Base
 
 A pipeline tool for extracting and converting G7 models and textures.
 
