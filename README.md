@@ -40,10 +40,9 @@ While the exporter is about 99% accurate, you may still encounter some abnormali
 
 ## ⚠️ Important Disclaimer ⚠️
 
-**This tool is intended for extracting game assets and may operate within a legal gray area. By using it, you acknowledge and accept full responsibility for how any extracted assets are used.
+This tool is intended for extracting game assets and may operate within a legal gray area. By using it, you acknowledge and accept full responsibility for how any extracted assets are used.
 
 I do not assume any liability for misuse of this tool or for any legal consequences that may arise from the unauthorized use, distribution, or modification of assets owned by Microsoft Studios, Halo Studios, or any other rights holders. It is your responsibility to ensure that your use of any extracted content complies with all applicable laws and licensing agreements.
-**
 
 ## How to Build
 
